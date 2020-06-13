@@ -44,3 +44,5 @@ class: inverse
 --
 
 Visítanos en nuestro [GitHub](https://github.com/rladieschile)
+
+Más información sobre [GitHub Pages](https://help.github.com/en/github/working-with-github-pages)
