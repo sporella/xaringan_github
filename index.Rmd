@@ -1,6 +1,6 @@
 ---
 title: "Xaringan+GitHub"
-subtitle: "Cómo subirlo a Github pages"
+subtitle: "Cómo subirlo a GitHub pages"
 author: "Stephanie Orellana"
 institute: "RLadies Chile"
 date: "12-06-2020"
