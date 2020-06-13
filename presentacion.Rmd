@@ -42,3 +42,5 @@ class: inverse
 - Cambiar en esta rama el nombre de x.html y x.Rmd. por "index.html" e "index.Rmd"
 
 --
+
+Visítanos en nuestro [GitHub](https://github.com/rladieschile)
