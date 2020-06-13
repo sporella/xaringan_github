@@ -30,10 +30,10 @@ class: inverse
 - Hacer presentación con Xaringan
 
 --
-- Hacer knit para crear objeto .html
+- Hacer knit para crear archivo .html
 
 --
-- Subir el proyecto a Github
+- Subir el proyecto a GitHub
 
 --
 - Hacer una rama llamada gh-pages
